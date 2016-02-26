@@ -7,7 +7,15 @@ I am [Ábel Vértesy](https://github.com/vertesy), a PhD. candidate in [Alexande
 
 I am currently working on allele specific expression in single cells, now focusing entirely on data analysis.
 
-#### *The site will be filled up with content later*
 
- <br/> <br/> <br/> <br/> <br/>
+#### *The site will be filled up with content later*. In the meanwhile, you can check out my R-packages:
+
+1. [**MarkdownReports**](https://vertesy.github.io/MarkdownReports/), an R function library to create scientific figures and reports easily.
+
+2. [**RoxygenReady**](https://vertesy.github.io/RoxygenReady/) to prepare your R function library to be compiled by Roxygen into an R package.
+
+
+
+
+ <br/> <br/> <br/> <br/> <br/> <br/> <br/>
 [*edit the website*](https://github.com/vertesy/vertesy.github.io/generated_pages/new)
