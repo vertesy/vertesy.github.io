@@ -17,9 +17,15 @@ I am currently working on allele specific expression in single cells, now focusi
 
 4. [**DatabaseLinker**](https://github.com/vertesy/TheCorvinas/blob/master/R/DatabaseLinkeR.md), functions for easier lookup of genes & proteins in various databases via your browser
 
-#### A Brief presentation on the tools:
+#### [A Brief presentation on the tools](https://docs.google.com/presentation/d/1shVYLLhLhbcIIWNbiAgrugtqeZh_VRgKiLr_BvgAWEc/embed?start=false&loop=false&delayms=5000#slide=id.p4) :
 
+[![CoverImage](https://snag.gy/BMPxIl.jpg)](https://docs.google.com/presentation/d/1shVYLLhLhbcIIWNbiAgrugtqeZh_VRgKiLr_BvgAWEc/embed?start=false&loop=false&delayms=5000#slide=id.p4)
+
+
+<!--
 <iframe src="https://docs.google.com/presentation/d/1shVYLLhLhbcIIWNbiAgrugtqeZh_VRgKiLr_BvgAWEc/embed?start=false&loop=false&delayms=5000#slide=id.p4" frameborder="0" width="960" height="749">
 </iframe>
 
 <iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&height=400&wkst=2&bgcolor=%23000000&src=39vnh9es1bn814e36a9oq7t5us%40group.calendar.google.com&color=%238C500B&ctz=Europe%2FBudapest" style="border:solid 1px #777" width="800" height="400" frameborder="0" scrolling="no"></iframe> 
+-->
+
