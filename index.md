@@ -2,7 +2,7 @@
 
 ![Ábel](https://raw.githubusercontent.com/vertesy/vertesy.github.io/master/images/pics_AV/profile%202016-01-22_17.49.19.edit.small.jpg)
 
-I am [Ábel Vértesy](https://github.com/vertesy), recently graduated (PhD) in [Alexander van Oudenaarden's lab](http://www.hubrecht.eu/onderzoekers/van-oudenaarden-group/) @ the [Hubrecht Institute](http://www.hubrecht.eu) in the Netherlands.
+I am [Ábel Vértesy](https://github.com/vertesy). I recently graduated (PhD) from [Alexander van Oudenaarden's lab](http://www.hubrecht.eu/onderzoekers/van-oudenaarden-group/) at the [Hubrecht Institute](http://www.hubrecht.eu) in the Netherlands.
 
 During my PhD, I was focusing on data analysis in different single-cell genomics and spatial transcriptomics projects. 
 
