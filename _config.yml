@@ -1,0 +1,8 @@
+title: Ábel Vértesy's Github Page
+description: My Personal Site on Github
+google_analytics: " UA-74286663-6 "
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
