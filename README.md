@@ -1,13 +1,19 @@
 ### Hello!
 
-![Ábel](images/pics_AV/profile 2016-01-22_17.49.19.edit.small.jpg)
+![Ábel](https://raw.githubusercontent.com/vertesy/vertesy.github.io/master/images/pics_AV/profile%202016-01-22_17.49.19.edit.small.jpg)
 
-I am [Ábel Vértesy](https://github.com/vertesy), a PhD. candidate in [Alexander van Oudenaarden's lab](http://www.hubrecht.eu/onderzoekers/van-oudenaarden-group/) @ the [Hubrecht Institute](http://www.hubrecht.eu) in the Netherlands.
+I am [Ábel Vértesy](https://github.com/vertesy), recently graduated (PhD) in [Alexander van Oudenaarden's lab](http://www.hubrecht.eu/onderzoekers/van-oudenaarden-group/) @ the [Hubrecht Institute](http://www.hubrecht.eu) in the Netherlands.
+
+During my PhD, I was focusing on data analysis in different single-cell genomics and spatial transcriptomics projects. 
+
+My papers are listed on [ORCID](https://orcid.org/0000-0001-6075-5702) and [Google Scholar](https://scholar.google.nl/citations?user=EugkUHAAAAAJ&hl=nl&oi=ao). Preprints of my unpublished projects are available on request.
+
+My CV is available [here](http://bit.ly/CV_A_Vertesy).
+
+Between 04/July/2018 - 30/Aug/2018 I will be teaching [single-cell genomics](https://vertesy.github.io/Single-Cell-Omics-Course/) and [data analysis](https://vertesy.github.io/Exploratory-data-analysis-in-R/) in Accra, at the University of Ghana.
 
 
-I am currently working on allele specific expression in single cells, now focusing entirely on data analysis.
-
-#### *The site will be filled up with content later*. In the meanwhile, you can check out my R-packages:
+#### During my work I also wrote two R-packages and some other function libraries:
 
 1. [**MarkdownReports**](https://vertesy.github.io/MarkdownReports/), an R function library to create scientific figures and reports easily.
 
