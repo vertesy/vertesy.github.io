@@ -1,4 +1,4 @@
-### About Me
+## About Me
 
 ![Ábel](https://raw.githubusercontent.com/vertesy/vertesy.github.io/master/images/pics_AV/profile%202016-01-22_17.49.19.edit.small.jpg)
 
@@ -7,8 +7,7 @@ I am [Ábel Vértesy](https://github.com/vertesy), and I recently graduated (PhD
 This is my personal website summarizing some of my activities. My CV is available [here](http://bit.ly/CV_A_Vertesy).
 
 
-
-### Science
+## Science
 
 My papers are listed on [ORCID](https://orcid.org/0000-0001-6075-5702), on [Google Scholar](https://scholar.google.nl/citations?user=EugkUHAAAAAJ&hl=nl&oi=ao) and on [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Vertesy+A%5BAuthor%5D).
 
@@ -16,7 +15,7 @@ Preprints of my manuscripts are accessible on [biorxiv](https://www.biorxiv.org/
 
 
 
-### Teaching
+## Teaching
 
 I designed and held two summer courses in the July-Aug/2018 in Accra, at the University of Ghana.
 
@@ -25,7 +24,7 @@ I designed and held two summer courses in the July-Aug/2018 in Accra, at the Uni
 
 
 
-### Software
+## Software
 
 During my work I also wrote two R-packages and some other function libraries:
 
