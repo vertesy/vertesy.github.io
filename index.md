@@ -2,9 +2,9 @@
 
 ![Ábel](https://raw.githubusercontent.com/vertesy/vertesy.github.io/master/images/pics_AV/profile%202016-01-22_17.49.19.edit.small.jpg)
 
-I am [Ábel Vértesy](https://github.com/vertesy), and I recently graduated (PhD) in [Alexander van Oudenaarden's lab](http://www.hubrecht.eu/onderzoekers/van-oudenaarden-group/) @ the [Hubrecht Institute](http://www.hubrecht.eu), in Utrecht, The Netherlands. During my PhD, I was focusing on data analysis in different single-cell genomics and spatial transcriptomics projects. 
+I am [Ábel Vértesy](https://github.com/vertesy), a postdoc in the [Knoblich Lab](https://www.imba.oeaw.ac.at/research/juergen-knoblich/) at [IMBA - Institute for Molecular Biotechnology](https://www.imba.oeaw.ac.at/?L=EN) of the Austrian Academy of Sciences in Vienna. I did my PhD in [Alexander van Oudenaarden's lab](http://www.hubrecht.eu/onderzoekers/van-oudenaarden-group/) @ the [Hubrecht Institute](http://www.hubrecht.eu), in Utrecht, The Netherlands. I currently focus on various single-cell projects in brain organoids. During my PhD, I was focusing on data analysis in different single-cell genomics and spatial transcriptomics projects. 
 
-This is my personal website summarizing some of my activities. My CV is available [here](http://bit.ly/CV_A_Vertesy).
+This is my personal website summarizing some of my activities. 
 
 
 ## Science
@@ -28,23 +28,19 @@ I designed and held two summer courses in the July-Aug/2018 in Accra, at the Uni
 
 During my work I also wrote two R-packages and some other function libraries:
 
-1. [**MarkdownReports**](https://vertesy.github.io/MarkdownReports/), an R function library to create scientific figures and reports easily.
+1. [**MarkdownReports**](https://vertesy.github.io/MarkdownReports), an R function library to create scientific figures and reports easily.
+2. [**CodeAndRoll**](https://vertesy.github.io/CodeAndRoll), a utility function library for R.
+3. [**Seurat.utils**](https://vertesy.github.io/Seurat.utils), various utility functions for single-cell analysis with Seurat v3.
+4. [**Seurat.multicore**](https://vertesy.github.io/Seurat.multicore), multicore and utility functions for Seurat 2 & 3, using doMC / foreach packages.
+5. [**DatabaseLinker**](https://vertesy.github.io/DatabaseLinkeR), functions for easier lookup of genes & proteins in various databases via your browser
+6. [**RoxygenReady**](https://vertesy.github.io/RoxygenReady) to prepare your R function library to be compiled by Roxygen into an R package.
+7. [**DataInCode**](https://vertesy.github.io/DataInCode) to store (smaller) data objects in your R code - make your script fully reproducable yet easily sharable. 
 
-2. [**RoxygenReady**](https://vertesy.github.io/RoxygenReady/) to prepare your R function library to be compiled by Roxygen into an R package.
 
-3. [**CodeAndRoll**](https://github.com/vertesy/TheCorvinas/blob/master/R/CodeAndRoll.md), a utility function library for R
 
-4. [**DatabaseLinker**](https://github.com/vertesy/TheCorvinas/blob/master/R/DatabaseLinkeR.md), functions for easier lookup of genes & proteins in various databases via your browser
 
-#### [A Brief presentation on the tools](https://docs.google.com/presentation/d/1shVYLLhLhbcIIWNbiAgrugtqeZh_VRgKiLr_BvgAWEc/embed?start=false&loop=false&delayms=5000#slide=id.p4) :
+
+#### [A Brief presentation on the first tools I wrote](https://docs.google.com/presentation/d/1shVYLLhLhbcIIWNbiAgrugtqeZh_VRgKiLr_BvgAWEc/embed?start=false&loop=false&delayms=5000#slide=id.p4) :
 
 [![CoverImage](https://snag.gy/BMPxIl.jpg)](https://docs.google.com/presentation/d/1shVYLLhLhbcIIWNbiAgrugtqeZh_VRgKiLr_BvgAWEc/embed?start=false&loop=false&delayms=5000#slide=id.p4)
-
-
-<!--
-<iframe src="https://docs.google.com/presentation/d/1shVYLLhLhbcIIWNbiAgrugtqeZh_VRgKiLr_BvgAWEc/embed?start=false&loop=false&delayms=5000#slide=id.p4" frameborder="0" width="960" height="749">
-</iframe>
-
-<iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&height=400&wkst=2&bgcolor=%23000000&src=39vnh9es1bn814e36a9oq7t5us%40group.calendar.google.com&color=%238C500B&ctz=Europe%2FBudapest" style="border:solid 1px #777" width="800" height="400" frameborder="0" scrolling="no"></iframe> 
--->
 
