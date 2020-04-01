@@ -32,7 +32,7 @@ During my work I also wrote two R-packages and some other function libraries:
 2. [**CodeAndRoll**](https://vertesy.github.io/CodeAndRoll), a utility function library for R.
 3. [**Seurat.utils**](https://vertesy.github.io/Seurat.utils), various utility functions for single-cell analysis with Seurat v3.
 4. [**Seurat.multicore**](https://vertesy.github.io/Seurat.multicore), multicore and utility functions for Seurat 2 & 3, using doMC / foreach packages.
-5. [**DatabaseLinker**](https://vertesy.github.io/DatabaseLinkeR), functions for easier lookup of genes & proteins in various databases via your browser
+5. [**DatabaseLinker**](https://vertesy.github.io/DatabaseLinke.R), functions for easier lookup of genes & proteins in various databases via your browser
 6. [**RoxygenReady**](https://vertesy.github.io/RoxygenReady) to prepare your R function library to be compiled by Roxygen into an R package.
 7. [**DataInCode**](https://vertesy.github.io/DataInCode) to store (smaller) data objects in your R code - make your script fully reproducable yet easily sharable. 
 
