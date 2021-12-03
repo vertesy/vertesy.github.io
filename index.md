@@ -27,7 +27,7 @@ I designed and held two summer courses in the July-Aug/2018 in Accra, at the Uni
 During my work I also wrote several R-packages:
 
 1. [**MarkdownReports**](https://vertesy.github.io/MarkdownReports), an R function library to create scientific figures and reports easily.
-1. [**MarkdownHelpers**](https://vertesy.github.io/MarkdownHelpers),  Helper functions (control and parsing) for `MarkdownReports` and `ggExpres`.
+1. [**MarkdownHelpers**](https://github.com/vertesy/MarkdownHelpers),  Helper functions (control and parsing) for `MarkdownReports` and `ggExpres`.
 3. [**ggExpress**](https://vertesy.github.io/ggExpress),  create, annotate and export figures with minimal code and effort, using ggplot.
 4. [**Stringendo**](https://vertesy.github.io/Stringendo), with string parsing functionalities for generating plotnames, filenames and path.
 5. [**ReadWriter**](https://vertesy.github.io/ReadWriter),  to read and write tabular data with minimal code and effort.
