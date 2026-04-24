@@ -1,12 +1,17 @@
 ## About Me
 
-![Ábel](https://raw.githubusercontent.com/vertesy/vertesy.github.io/master/images/pics_AV/profile%202016-01-22_17.49.19.edit.small.jpg)
+<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/70206310-2d7c-46fc-9c08-eed816ffaff1" /> <br>
+<!--- ![Ábel](https://raw.githubusercontent.com/vertesy/vertesy.github.io/master/images/pics_AV/profile%202016-01-22_17.49.19.edit.small.jpg) ---> 
+
 
 I am [Ábel Vértesy](https://github.com/vertesy), a postdoc in the [Knoblich Lab](https://www.imba.oeaw.ac.at/research/juergen-knoblich/) at [IMBA - Institute for Molecular Biotechnology](https://www.imba.oeaw.ac.at/?L=EN) of the Austrian Academy of Sciences in Vienna. I did my PhD in [Alexander van Oudenaarden's lab](http://www.hubrecht.eu/onderzoekers/van-oudenaarden-group/) at the [Hubrecht Institute](http://www.hubrecht.eu), in Utrecht, The Netherlands. 
 
 My current research centers on sequencing-based single-cell connectomics in human brain organoids, integrating transcriptomics with network-level analysis. During my PhD, I was focusing on data analysis in different single-cell genomics and spatial transcriptomics projects, many focusing on haplotype-specific gene-expression (sex chromosomes, imprinting). 
 
-This website is summarizing some of my activities. 
+This website is summarizing some of my activities.
+ 
+
+
 
 ## Science
 
