@@ -40,4 +40,4 @@ These R-packages help at different levels of data analysis, efficient programmin
 5. [**CodeAndRoll**](https://github.com/vertesy/CodeAndRoll), a utility function library for R.
 
 Slides of [an older presentation on the first tools I wrote](https://docs.google.com/presentation/d/1shVYLLhLhbcIIWNbiAgrugtqeZh_VRgKiLr_BvgAWEc/embed?start=false&loop=false&delayms=5000#slide=id.p4) :
-[![CoverImage](https://snag.gy/BMPxIl.jpg)](https://docs.google.com/presentation/d/1shVYLLhLhbcIIWNbiAgrugtqeZh_VRgKiLr_BvgAWEc/embed?start=false&loop=false&delayms=5000#slide=id.p4)
+<!-- [![CoverImage](https://snag.gy/BMPxIl.jpg)](https://docs.google.com/presentation/d/1shVYLLhLhbcIIWNbiAgrugtqeZh_VRgKiLr_BvgAWEc/embed?start=false&loop=false&delayms=5000#slide=id.p4) -->
